@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591c89792ade1d74fa27cdabd5f0fb89, type: 3}
+  m_Name: Smile 29
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 2475188758852385251, guid: 9bfc7b2689ba84b409c94d8d80e524bb, type: 3}
+  imagen: {fileID: 21300000, guid: 78571d0638acae54e979829f2116fa3d, type: 3}
+  nombre: slime

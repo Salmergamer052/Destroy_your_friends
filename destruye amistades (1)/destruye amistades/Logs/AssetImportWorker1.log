@@ -1,0 +1,340 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.17f1 (4fc78088f837) revision 5228416'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18363) 64bit Core' Language: 'es' Physical Memory: 10116 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity 2\2022.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/User/Downloads/destruye amistades (1)/destruye amistades
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+58300
+Successfully changed project path to: C:/Users/User/Downloads/destruye amistades (1)/destruye amistades
+C:/Users/User/Downloads/destruye amistades (1)/destruye amistades
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28772] Host "[IP] 172.16.23.224 [Port] 0 [Flags] 2 [Guid] 871015230 [EditorId] 871015230 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-4VAES8VJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [28772] Host "[IP] 172.16.23.224 [Port] 0 [Flags] 2 [Guid] 871015230 [EditorId] 871015230 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-4VAES8VJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 27.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
+[Subsystems] Discovering subsystems at path D:/Unity 2/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Downloads/destruye amistades (1)/destruye amistades/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) RX Vega 10 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5058 MB
+    Driver:   31.0.12024.0
+Initialize mono
+Mono path[0] = 'D:/Unity 2/2022.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity 2/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity 2/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/Unity 2/2022.3.17f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.020958 seconds.
+- Loaded All Assemblies, in  1.232 seconds
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 637 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.128 seconds
+Domain Reload Profiling: 3359ms
+	BeginReloadAssembly (225ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (258ms)
+	LoadAllAssembliesAndSetupDomain (669ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (657ms)
+			TypeCache.Refresh (654ms)
+				TypeCache.ScanAssembly (633ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (2128ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2028ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1739ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (198ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.896 seconds
+Refreshing native plugins compatible for Editor in 16.35 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.970 seconds
+Domain Reload Profiling: 6862ms
+	BeginReloadAssembly (333ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (80ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (82ms)
+	LoadAllAssembliesAndSetupDomain (3375ms)
+		LoadAssemblies (2732ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (851ms)
+			TypeCache.Refresh (769ms)
+				TypeCache.ScanAssembly (479ms)
+			ScanForSourceGeneratedMonoScriptInfo (55ms)
+			ResolveRequiredComponents (25ms)
+	FinalizeReload (2971ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2584ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1279ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (184ms)
+			ProcessInitializeOnLoadAttributes (943ms)
+			ProcessInitializeOnLoadMethodAttributes (160ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 11.37 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6266 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (423.9 KB). Loaded Objects now: 6729.
+Memory consumption went from 265.4 MB to 265.0 MB.
+Total: 8.315400 ms (FindLiveObjects: 0.633800 ms CreateObjectMapping: 0.428600 ms MarkObjects: 6.036400 ms  DeleteObjects: 1.214600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 62b5816608c3102f162a1797e29626cf -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2168366.246719 seconds.
+  path: Assets/2D Ice World/Assets/Sprites/ATLAS_Water_Snow_0002.png
+  artifactKey: Guid(74fcd1708f38dd1458edf8bbe184c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Ice World/Assets/Sprites/ATLAS_Water_Snow_0002.png using Guid(74fcd1708f38dd1458edf8bbe184c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ec6774744c0c5c183f746753ad1a7a') in 0.370921 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/2D Ice World/Assets/Sprites/Single Sprites/Water_0004.png
+  artifactKey: Guid(e1c012efaf0fe0c4ba5e4b4cf21e2821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Ice World/Assets/Sprites/Single Sprites/Water_0004.png using Guid(e1c012efaf0fe0c4ba5e4b4cf21e2821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89938ebe7c2ce2ca1ad757b925897c01') in 0.031996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Winter Tree.png
+  artifactKey: Guid(e23ebd906a70ca347a1e102f96b7a2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Winter Tree.png using Guid(e23ebd906a70ca347a1e102f96b7a2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0916958653a276da175568f2f393c2') in 0.105282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Winter Tree.png
+  artifactKey: Guid(39f61973834fbdd4bae7bac5e81de9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Winter Tree.png using Guid(39f61973834fbdd4bae7bac5e81de9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2376c20d9a23512824b813cf11ff079f') in 0.107177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.385814 seconds.
+  path: Assets/The Legend of Slim/09 The Special/Coin/01.png
+  artifactKey: Guid(2e3d19f734c6f8a4e9cf982ebb806997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/09 The Special/Coin/01.png using Guid(2e3d19f734c6f8a4e9cf982ebb806997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974aec232ee6269831cbbf53254ac3e5') in 0.101718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/The Legend of Slim/09 The Special/Bow/01.png
+  artifactKey: Guid(c4d1c19cb0350f743affdc062faa27b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/09 The Special/Bow/01.png using Guid(c4d1c19cb0350f743affdc062faa27b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8134dee9dcf45cb497565eedbad2796d') in 0.040282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/The Legend of Slim/05 The Ocean/Coral/01.png
+  artifactKey: Guid(b3711a59445527c44a76c2a709a21534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/05 The Ocean/Coral/01.png using Guid(b3711a59445527c44a76c2a709a21534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67557bc59d78ecd9d6478e712f097ca5') in 0.035782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/The Legend of Slim/08 NPC/Nurse/01.png
+  artifactKey: Guid(97caed10fc682f849af076cbd7024b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/08 NPC/Nurse/01.png using Guid(97caed10fc682f849af076cbd7024b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2922945a56e7d0ed9a5fe7d4a4c13e0') in 0.040157 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/The Legend of Slim/09 The Special/Bottle/01.png
+  artifactKey: Guid(9da86005ff6d190449a0129f31b52a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/09 The Special/Bottle/01.png using Guid(9da86005ff6d190449a0129f31b52a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d745a6b67720f8846bb953f935c0116') in 0.046577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/The Legend of Slim/05 The Ocean/Crab/01.png
+  artifactKey: Guid(9feafaac3a586584387c1b5f59a8263a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/05 The Ocean/Crab/01.png using Guid(9feafaac3a586584387c1b5f59a8263a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f97e3da049e43d8da82625e5c6aba95') in 0.048877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/The Legend of Slim/04 Desret and Ice/Ice/01.png
+  artifactKey: Guid(4ab191383f18a71418a2ba906a585e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Legend of Slim/04 Desret and Ice/Ice/01.png using Guid(4ab191383f18a71418a2ba906a585e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37856ca4bfdb2de6f904baccffaa69f1') in 0.040798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.823732 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-1-ForBody2-4x.png
+  artifactKey: Guid(0744a7ec1c109024fa780b715b22f696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-1-ForBody2-4x.png using Guid(0744a7ec1c109024fa780b715b22f696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8c54c4102a0918d5a204ad69c8817b') in 0.037766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-2-ForBody3-1x.png
+  artifactKey: Guid(b954562b8db81924f946474af7772771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-2-ForBody3-1x.png using Guid(b954562b8db81924f946474af7772771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73af41dee856fb43d62e3ef57b50e70') in 0.033604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-3-ForBody4-1x.png
+  artifactKey: Guid(8a56642f4d3710e439eb267a3a1e40f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-3-ForBody4-1x.png using Guid(8a56642f4d3710e439eb267a3a1e40f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e8f29bbeceae466682384557ece0a1') in 0.033294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-5-ForBody6-1x.png
+  artifactKey: Guid(d04184f130c02104b9c9f81a96b80ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-5-ForBody6-1x.png using Guid(d04184f130c02104b9c9f81a96b80ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d2a62f3c9f4d600b0e9323fa233dc9') in 0.022875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+  artifactKey: Guid(0c6271a290ef75b4c97d58746c86c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png using Guid(0c6271a290ef75b4c97d58746c86c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860ba22719c9b3fddf104227201d5fd8') in 0.072724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
